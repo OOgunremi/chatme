@@ -6,4 +6,4 @@ const TheirMessage = () => {
   )
 }
 
-export  { TheirMessage }
+export   default TheirMessage 

@@ -5,4 +5,4 @@ const MessageForm = () => {
   )
 }
 
-export { MessageForm}
+export default MessageForm

@@ -6,4 +6,4 @@ const MyMessage = () => {
   )
 }
 
-export  { MyMessage }
+export default MyMessage
