@@ -7,7 +7,7 @@ import './App.css';
 const App = () => {
   return (
     <ChatEngine
-      height="100vh"
+      height=""
       projectID=""
       userName=""
       userSecret=""
